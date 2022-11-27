@@ -5,3 +5,5 @@ Diabetes Dataset.csv is the original dataset, newest saves the latest processed 
 
 ## Members’_Contribution
 https://docs.google.com/spreadsheets/d/1JlDtGyMcZeiKx-l4qtHF1rJByu-joDMHRtazUFC2SMU/edit#gid=0
+## CRISP-DM
+https://docs.google.com/document/d/1JvWvUN5b6kUtt0vQ3jDbgSAsvGNKSnRYqKwM5fDCGEk/edit?usp=sharing
